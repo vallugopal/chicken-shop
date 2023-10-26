@@ -1,0 +1,44 @@
+#arjun{
+      background-color: rgb(209, 209, 189);
+      margin-left: 10px;
+}
+.arjun1{
+      background-color: rgb(205, 205, 200);
+      margin-left: 1000px;
+      flex: 4;
+}
+#vallaa{
+      background-color: black;
+      display: flex;
+      margin-left: 10px;
+      
+}
+.vallaa1{
+      
+      flex: 2;
+      margin-left: 50px;
+}
+.vallaa2{
+      
+      flex: 1;
+      margin-left: 50px;
+}
+.vallaa3{
+      flex: 2;
+      margin-left: 50px;
+}
+.vallaa4{
+      flex:1;
+      margin-left: 50px;
+}
+.vallaa5{
+      flex: 2;
+      margin-left: 50px;
+}h3{
+      background-color: rgb(200, 214, 239);
+}
+h1{
+      background-color:rgb(241, 150, 150);
+      
+      
+}
